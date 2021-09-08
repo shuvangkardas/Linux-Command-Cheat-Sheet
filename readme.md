@@ -5,7 +5,7 @@
 A command is a program that tells the system to do something. It has a structure like following
 `command [options] [arguments]`
 
-- Command works on a particular arguments. `arguments` are like extra pieces of information to perform the command. Here `arguments` are like  function arguments that tells command to what to perform
+- Command works on  particular arguments. `arguments` are like extra pieces of information to perform the command. Here `arguments` are like  function arguments that tells command  what to perform
 - On the other hand `options` are used to control the command behavior.
     - `options` are generally letter  preceded by hyphen(-). e.g. `ls -a`   or word preceded by a double hyphen(—). e.g. `ls --help`
     - More than one options can be used with a command in two form. separate form and lumped form
@@ -160,4 +160,4 @@ xclip -sel clip <~/.ssh/id_25519.pub
 
 IP command cheatsheet
 
-[](https://access.redhat.com/sites/default/files/attachments/rh_ip_command_cheatsheet_1214_jcs_print.pdf)
+[IP Commands](https://access.redhat.com/sites/default/files/attachments/rh_ip_command_cheatsheet_1214_jcs_print.pdf)
